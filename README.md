@@ -20,7 +20,7 @@ Utilizei o "Copilot" para realizar minha pesquisa sobre IAs e a redução da ans
 
 Este e-book nos mostra que a IA tem o potencial de transformar a gestão da ansiedade no trabalho, oferecendo soluções personalizadas e acessíveis que melhoram a saúde mental e a produtividade dos funcionários. Ao integrar essas tecnologias de forma eficaz, as empresas podem criar um ambiente de trabalho mais saudável e produtivo.
 
-[A IA NA JORNADA CONTRA A ANSIEDADE NO TRABALHO]()
+[A IA NA JORNADA CONTRA A ANSIEDADE NO TRABALHO](A IA na Jornada Contra a Ansiedade no Trabalho.pdf)
 
 ## 💭 Reflexão
 
